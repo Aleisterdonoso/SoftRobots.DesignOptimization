@@ -27,7 +27,7 @@ if not os.path.exists(directorio):
 print(f"Directorio creado: {directorio}")
 
 print(directorio)
-
+print("Hola somos Cristian y Aleister :D")
 
 def main(args=None):
     """ Main entry point for the project
